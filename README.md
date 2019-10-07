@@ -1,3 +1,3 @@
 # CSCU9YE
-ARTIFICIAL INTELLIGENCE 
+ARTIFICIAL INTELLIGENCE -
 A collection of lecture notes, practical exercises and the final assignment.
