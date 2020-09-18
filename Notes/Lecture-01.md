@@ -53,7 +53,7 @@ sequences to actions.
 There are different ways to represent these functions 
 
 --------------------------------------------------------------
-NOTE TO SELF: CHECK OUT Control theory and cybenetics..... for fun!
+NOTE TO SELF: CHECK OUT Control theory and cybernetics..... for fun!
 -----------------------------------------------------------------
 
 Short History of AI
