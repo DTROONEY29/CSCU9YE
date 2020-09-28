@@ -86,7 +86,7 @@ transforms the start state to a goal state.
 ------ Pac man as a search problem ----
 
 Problem: Find paths 
-- States: (x, y) ocation (3x3)
+- States: (x, y), location (3x3)
 - Actions: u, d, l, r
 - Successor: update location only
 - Goal test: (x,y) = END
