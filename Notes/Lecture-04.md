@@ -51,5 +51,4 @@ General Tree Search
 
 General tree search function: 
 
-![alt text](http://![alt text](http://url/to/img.png)
-)
+![alt text](https://github.com/DTROONEY29/CSCU9YE/blob/master/Notes/Images/GenTreeSearchFunction.png)
