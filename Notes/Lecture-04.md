@@ -51,7 +51,8 @@ General Tree Search
 
 General tree search function: 
 
-![Function for a general search tree](https://github.com/[DTROONEY29]/[CSCU9YE]/Notes/[GenTreeSearchFunction]/.jpg?raw=true)
+![Function for a general search tree](https://github.com/DTROONEY29/CSCU9YE/blob/master/Notes/Images/GenTreeSearchFunction.png)
+
 --------------------------------------------------------
 Uninformed (Blind) search strategies
 -------------------------------------
