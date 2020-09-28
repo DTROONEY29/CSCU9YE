@@ -86,14 +86,14 @@ transforms the start state to a goal state.
 ------ Pac man as a search problem ----
 
 Problem: Find paths 
-    - States: (x, y) ocation (3x3)
-    - Actions: u, d, l, r
-    - Successor: update location only
-    - Goal test: (x,y) = END
+- States: (x, y) ocation (3x3)
+- Actions: u, d, l, r
+- Successor: update location only
+- Goal test: (x,y) = END
 
 Problem: Eat all dots
-    - States: {(x, y), dot Booleans}
-    - Actions; u, d, l, r
-    - Successor: Update location and eat the dot
-    - Goal test: Dots are all eaten
+- States: {(x, y), dot Booleans}
+- Actions; u, d, l, r
+- Successor: Update location and eat the dot
+- Goal test: Dots are all eaten
 
